@@ -1,0 +1,15 @@
+D:\work\eclipse\workspace001\AssemblingFactory\src\test\java\inventory\FinalProductInventoryTest.java
+D:\work\eclipse\workspace001\AssemblingFactory\src\main\java\assembler\FinalProductProducer.java
+D:\work\eclipse\workspace001\AssemblingFactory\src\main\java\product\FinalProduct.java
+D:\work\eclipse\workspace001\AssemblingFactory\src\test\java\assembler\FinalProductProducerTest.java
+D:\work\eclipse\workspace001\AssemblingFactory\src\main\java\assembler\WorkerTask.java
+D:\work\eclipse\workspace001\AssemblingFactory\src\main\java\product\Machine.java
+D:\work\eclipse\workspace001\AssemblingFactory\src\main\java\engine\AssemblingFactoryEngine.java
+D:\work\eclipse\workspace001\AssemblingFactory\src\main\java\interactor\InputTransferObject.java
+D:\work\eclipse\workspace001\AssemblingFactory\src\main\java\product\Bolt.java
+D:\work\eclipse\workspace001\AssemblingFactory\src\main\java\inventory\FinalProductInventory.java
+D:\work\eclipse\workspace001\AssemblingFactory\src\main\java\inventory\Warehouse.java
+D:\work\eclipse\workspace001\AssemblingFactory\src\test\java\inventory\WarehouseTest.java
+D:\work\eclipse\workspace001\AssemblingFactory\src\main\java\engine\AssemblingFactoryMain.java
+D:\work\eclipse\workspace001\AssemblingFactory\src\test\java\assembler\WorkerTaskTest.java
+D:\work\eclipse\workspace001\AssemblingFactory\src\main\java\interactor\ConsoleTalker.java
